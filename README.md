@@ -6,4 +6,4 @@ Determining the chances of winning for each candidate is tricky and merely relyi
 
 In determining the chances of a candidate winning the elections, we have created our own formula to determine their chances of winning considering all the data we have gathered in this paper. The formula would depend on the presence of that candidate being in the all polls or social media platform in the criteria set first before computing their overall chances of winning. If a candidate fail to qualify for all the criteria mentioned below, individual results of those parts in the criteria that they did qualify for would be the output presented by the program. 
 
-The specifics are available in the Case Process Documentation and User Manual file in this repository.
+The specifics of this application are available in the Case Process Documentation and User Manual file in this repository.
