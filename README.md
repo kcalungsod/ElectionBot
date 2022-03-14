@@ -1,4 +1,4 @@
-# ElectionBot
+# Election Bot
 
 In the coming Philippines election on May 9, 2022, numerous candidates of various positions – particularly those who are eyeing the presidential seat have been working hard to promote themselves to the public. It’s election season once again and so far, the sentiment seems to be divided with no clear or standout winner based on polls and surveys conducted by various organizations in the country. According to the latest Pulse Asia survey conducted last September 6-11, the chances seem to favor four specific candidates – Sara Duterte Carpio (20%), Ferdinand “Bongbong” Marcos, Jr. (15%), Francisco “Isko Moreno” Domagoso III (13%), and finally Emmanuel “Manny” Pacquiao (12%). Other candidates like Maria Leonor “Leni” Gerona Robredo (9%) are also at their heels and there are still several months left to change up the current standing all candidates have.
 
