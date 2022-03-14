@@ -1,1 +1,9 @@
 # ElectionBot
+
+In the coming Philippines election on May 9, 2022, numerous candidates of various positions – particularly those who are eyeing the presidential seat have been working hard to promote themselves to the public. It’s election season once again and so far, the sentiment seems to be divided with no clear or standout winner based on polls and surveys conducted by various organizations in the country. According to the latest Pulse Asia survey conducted last September 6-11, the chances seem to favor four specific candidates – Sara Duterte Carpio (20%), Ferdinand “Bongbong” Marcos, Jr. (15%), Francisco “Isko Moreno” Domagoso III (13%), and finally Emmanuel “Manny” Pacquiao (12%). Other candidates like Maria Leonor “Leni” Gerona Robredo (9%) are also at their heels and there are still several months left to change up the current standing all candidates have.
+
+Determining the chances of winning for each candidate is tricky and merely relying on surveys and polls wouldn’t give an accurate prediction on the candidate’s current ranks. Social media presence in platforms like Facebook or Twitter, although not an accurate metric, couldn’t be discounted.
+
+In determining the chances of a candidate winning the elections, we have created our own formula to determine their chances of winning considering all the data we have gathered in this paper. The formula would depend on the presence of that candidate being in the all polls or social media platform in the criteria set first before computing their overall chances of winning. If a candidate fail to qualify for all the criteria mentioned below, individual results of those parts in the criteria that they did qualify for would be the output presented by the program. 
+
+The specifics are available in the Case Process Documentation and User Manual file in this repository.
