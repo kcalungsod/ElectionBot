@@ -1,0 +1,12 @@
+Abella|739
+De Guzman|16823
+Dela Rosa|0
+Domagoso|934979
+Duterte-Carpio|0
+Gonzales|0
+Lacson|44139
+Marcos|920854
+Pacquiao|2682393
+Poe|137407
+Robredo|600858
+Total|5338192
